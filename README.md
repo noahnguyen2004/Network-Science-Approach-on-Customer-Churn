@@ -1,1 +1,1 @@
-# Customer-Churn-Classification-And-Network-Analysis
+# Network Science Approach on Customer Churn
